@@ -7,6 +7,7 @@ import java.util.Random;
 *
 * (Deliberately contains bugs.)
 */
+//12345678
 public class TorpedoStore {
   private static final Random generator = new Random();
 
