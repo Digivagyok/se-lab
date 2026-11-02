@@ -4,11 +4,13 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 
 The application is simplified and deliberately contains bugs.
 
+![Maven Build](https://github.com/Digivagyok/se-lab/actions/workflows/maven.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-blue)
 ## Getting started
 
 - The project is implemented in Java 21.
 - The project can be built using [Maven](https://maven.apache.org/).
-- [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
+- [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.javításokat
 
 Clone the repository and execute Maven to build the application:
 
